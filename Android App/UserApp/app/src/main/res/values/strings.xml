@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mit_haluat_tehd">Mitä haluat tehdä?</string>
+    <string name="galleria">Galleria</string>
+    <string name="ohje">Ohje</string>
+    <string name="ohjeita">Paina "Galleria" aloittaaksesi, Galleria toimii recyclerViewlla, joka hakee Firebase databasesta kuvat.
+    Kuvia painamalla saat kuvista lisää tietoa niiden sisällöstä.</string>
+    <string name="ohjeita_ruotsi">Tryck på "Galleri" för att komma igång. Galleriet fungerar med recyclerView, som hämtar bilder från Firebase-databasen.
+    Klicka på bilderna för att få mer information om deras innehåll.
+</string>
+</resources>
